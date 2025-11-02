@@ -3,7 +3,7 @@
 A comprehensive Hardhat-based development environment for building and deploying smart contracts on Base blockchain, featuring a modern React frontend with Tailwind CSS and Web3 wallet integration.
 
 ## 🚀 Project Overview
-## 🚀 Project Overview
+## 🚀 Project Overview## 🚀 Project Overview
 This project is designed for learning and developing smart contracts with the following key features:
 
 - **Smart Contracts**: Collection of educational Solidity contracts covering various concepts
