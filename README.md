@@ -7,9 +7,8 @@ A comprehensive Hardhat-based development environment for building and deploying
 This project is designed for learning and developing smart contracts with the following key features:
 
 - **Smart Contracts**: Collection of educational Solidity contracts covering various concepts
-- **Hardhat Development Environment**: Complete setup for compilation, testing, and deployment
-- **Base Blockchain Integration**: Configured for Base mainnet and testnet deployments
-- **Modern Frontend**: React application with Tailwind CSS and Web3 wallet connectivity
+- **Hardhat Development Environment**: Complete setup for compilation, testing, and deploymentd
+- **Modern Frontend**: React application with Tailwind CSS and Web3 wallet connectivityvbvbbvvbvb
 - **Multi-Contract Support**: Various contract types including ERC20, ERC721, and custom implementations
 
 ![Demo](frontend/public/demo.png)
